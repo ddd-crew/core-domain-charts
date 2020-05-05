@@ -2,7 +2,7 @@
 
 Core Domain Charts help you to visualise the strategic importance of each sub-domain or business capability in your software architecture allowing you to make business model-aligned architectural decisions.
 
-[Core Domains]() are the parts of your domain where the expected ROI curve is greatest, and deserve the highest focus.
+[Core Domains](https://www.youtube.com/watch?v=PBRluTD5oHo) are the parts of your domain where the expected [ROI](https://www.investopedia.com/terms/r/returnoninvestment.asp) is greatest, and deserve the highest focus.
 
 The true power of this technique is the conversations that it triggers, especially cross-discipline. Complexity is something that engineers can gauge whereas business differentiation is provided by product managers or business stakeholders.
 

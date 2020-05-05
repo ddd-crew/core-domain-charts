@@ -9,7 +9,7 @@ The true power of this technique is the conversations that it triggers, especial
 ![alt text](resources/core-domain-chart-template.jpg "Core Domain Chart")
 
 ## How to Use
-There are a variety of ways the Core Domain Chart can be used, but it's important not to try to and visualise all of the possible information in a single diagram. Below are three flavours to choose from.
+There are a variety of ways the Core Domain Chart can be used, but it's important not to try to and visualise all of the possible information in a single diagram. Below are multiple versions showing different types of information to choose from.
 
 ### Sub-domain/Bounded Context Portfolio
 This is the simplest flavour. Simply plot each of your sub-domains or bounded contexts on the chart to get a relative sense of ordering between them.

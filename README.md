@@ -42,9 +42,11 @@ The Core Domain Chart was inspired heavily by:
 - [Wardley Mapping](https://medium.com/wardleymaps)
 - [Team Topologies](https://teamtopologies.com/)
 
-## Contributions and Feedback
+## Contributions, Questions and Feedback
 
-The Core Domain Chart is freely available for you to use. In addition, your feedback and ideas are welcome to improve it or to create new versions. 
+The Core Domain Chart is freely available for you to use. In addition, your feedback and ideas are welcome to improve it or to create new versions.
+
+If you have questions you can ping us or open an [Issue](https://github.com/ddd-crew/core-domain-charts/issues/new/choose).
 
 Feel free to also send us a pull request with your examples.
 

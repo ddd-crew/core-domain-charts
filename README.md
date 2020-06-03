@@ -9,7 +9,7 @@ The true power of this technique is the conversations that it triggers, especial
 ![alt text](resources/core-domain-chart-template.jpg "Core Domain Chart")
 
 ## How to Use
-There are a variety of ways the Core Domain Chart can be used, but it's important not to try to and visualise all of the possible information in a single diagram. Below are multiple versions showing different types of information to choose from.
+There are a variety of ways the Core Domain Chart can be used, but it's important not to try to and visualise all the possible information in a single diagram. Below are multiple versions showing different types of information to choose from.
 
 ### Sub-domain/Bounded Context Portfolio
 This is the simplest flavour. Simply plot each of your sub-domains or bounded contexts on the chart to get a relative sense of ordering between them.
@@ -18,7 +18,7 @@ This is the simplest flavour. Simply plot each of your sub-domains or bounded co
 You can augment your Core Domain Charts with the dependencies between your bounded contexts and the type of [Team Topologies](https://github.com/TeamTopologies) Interaction Mode in play.
 
 ### Architecture Migration
-With a slight tweak of the y axis label, core domain charts can be used to plan the order in which you migrate from your current architecture to your target architecture.
+With a slight tweak of the y-axis label, core domain charts can be used to plan the order in which you migrate from your current architecture to your target architecture.
 
 ![alt text](resources/architecture-migration-core-domain-chart.jpg "Architecture Migration Core Domain Chart")
 
@@ -31,11 +31,7 @@ With a slight tweak of the y axis label, core domain charts can be used to plan 
 
 ## Contributors
 
-Thank you to the following individuals who have all contributed to the Core Domain Chart:
-
-- [Kacper Gunia](https://github.com/cakper)
-- [Eduardo da Silva](https://twitter.com/emgsilva)
-- [Nick Tune](https://github.com/ntcoding)
+Thanks to all [existing and future contributors](https://github.com/ddd-crew/core-domain-charts/graphs/contributors) and to [Eduardo da Silva](https://twitter.com/emgsilva) who has contributed to the Core Domain Chart:
 
 The Core Domain Chart was inspired heavily by:
 

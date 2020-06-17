@@ -22,6 +22,10 @@ With a slight tweak of the y-axis label, core domain charts can be used to plan 
 
 ![alt text](resources/architecture-migration-core-domain-chart.jpg "Architecture Migration Core Domain Chart")
 
+## Examples
+
+Check out the [Examples](/examples). Please feel free to create a pull request with your own suggestions.
+
 ## Additional Resources
 
 - [Core Domain Patterns](https://medium.com/nick-tune-tech-strategy-blog/core-domain-patterns-941f89446af5)

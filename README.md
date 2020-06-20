@@ -9,25 +9,34 @@ The true power of this technique is the conversations that it triggers, especial
 ![alt text](resources/core-domain-chart-template.jpg "Core Domain Chart")
 
 ## How to Use
+
 There are a variety of ways the Core Domain Chart can be used, but it's important not to try to and visualise all the possible information in a single diagram. Below are multiple versions showing different types of information to choose from.
 
-### Sub-domain/Bounded Context Portfolio
+### Sub-domain/Bounded Context Portfolio 
+
 This is the simplest flavour. Simply plot each of your sub-domains or bounded contexts on the chart to get a relative sense of ordering between them.
 
 ### Context Map With Team Topologies
+
 You can augment your Core Domain Charts with the dependencies between your bounded contexts and the type of [Team Topologies](https://github.com/TeamTopologies) Interaction Mode in play.
 
 ### Architecture Migration
+
 With a slight tweak of the y-axis label, core domain charts can be used to plan the order in which you migrate from your current architecture to your target architecture.
 
 ![alt text](resources/architecture-migration-core-domain-chart.jpg "Architecture Migration Core Domain Chart")
+
+## Examples
+
+Check out the [Examples](/examples) to get a better understanding of these charts.
+
+Please feel free to create a pull request with your own examples.
 
 ## Additional Resources
 
 - [Core Domain Patterns](https://medium.com/nick-tune-tech-strategy-blog/core-domain-patterns-941f89446af5)
 
 - [Visualising Sociotechnical Architecture with DDD and Team Topologies](https://medium.com/nick-tune-tech-strategy-blog/visualising-sociotechnical-architecture-with-ddd-and-team-topologies-48c6be036c40)
-
 
 ## Contributors
 

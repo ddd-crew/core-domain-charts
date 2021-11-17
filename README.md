@@ -42,6 +42,15 @@ The following clues can help to assess the complexity and differentiation of eac
 - What damage would occur to the brand if major or recurring failures happened in the domain?
 - Which cynefin domain does it fall within?
 
+Complexity can manifest in different forms. In addition to essential domai complexity, accidental technical complexity, and operational complexity, (sub)domains can be complex due to:
+
+- the difficulty in discovering potential value
+- designing the rules, logic, and workflows are fundamentally hard to get right
+- simpler rules and logic but operating at large scale
+- high levels of differentiation are needed to displace existing market leaders or in saturated markets
+- specialist expertise that is difficult and expensive to acquire 
+
+
 ## Examples
 
 Check out the [Examples](/examples) to get a better understanding of these charts.

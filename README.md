@@ -1,6 +1,6 @@
 # Core Domain Charts
 
-Core Domain Charts help you to visualise the strategic importance of each (sub)domain or business capability in your software architecture allowing you to make business model-aligned architectural decisions.
+Core Domain Charts help you to visualise the strategic importance of each (sub)domain or business capability in your architecture allowing you to make business model-aligned architectural decisions.
 
 [Core Domains](https://www.youtube.com/watch?v=PBRluTD5oHo) are the parts of your domain where the expected [ROI](https://www.investopedia.com/terms/r/returnoninvestment.asp) is greatest, and deserve the highest focus.
 
@@ -42,7 +42,7 @@ The following clues can help to assess the complexity and differentiation of eac
 - What damage would occur to the brand if major or recurring failures happened in the domain?
 - Which cynefin domain does it fall within?
 
-Complexity can manifest in different forms. In addition to essential domai complexity, accidental technical complexity, and operational complexity, (sub)domains can be complex due to:
+Complexity can manifest in different forms. Here are some clues for uncovering the essential domain complexity, accidental technical complexity, and operational complexity of each (sub)domain:
 
 - the difficulty in discovering potential value
 - designing the rules, logic, and workflows are fundamentally hard to get right

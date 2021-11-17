@@ -1,6 +1,6 @@
 # Core Domain Charts
 
-Core Domain Charts help you to visualise the strategic importance of each sub-domain or business capability in your software architecture allowing you to make business model-aligned architectural decisions.
+Core Domain Charts help you to visualise the strategic importance of each (sub)domain or business capability in your software architecture allowing you to make business model-aligned architectural decisions.
 
 [Core Domains](https://www.youtube.com/watch?v=PBRluTD5oHo) are the parts of your domain where the expected [ROI](https://www.investopedia.com/terms/r/returnoninvestment.asp) is greatest, and deserve the highest focus.
 
@@ -12,9 +12,9 @@ The true power of this technique is the conversations that it triggers, especial
 
 There are a variety of ways the Core Domain Chart can be used, but it's important not to try to and visualise all the possible information in a single diagram. Below are multiple versions showing different types of information to choose from.
 
-### Sub-domain/Bounded Context Portfolio 
+### (Sub)Domain/Bounded Context Portfolio 
 
-This is the simplest flavour. Simply plot each of your sub-domains or bounded contexts on the chart to get a relative sense of ordering between them.
+This is the simplest flavour. Simply plot each of your (sub)domains or bounded contexts on the chart to get a relative sense of ordering between them.
 
 ### Context Map With Team Topologies
 
@@ -25,6 +25,22 @@ You can augment your Core Domain Charts with the dependencies between your bound
 With a slight tweak of the y-axis label, core domain charts can be used to plan the order in which you migrate from your current architecture to your target architecture.
 
 ![alt text](resources/architecture-migration-core-domain-chart.jpg "Architecture Migration Core Domain Chart")
+
+## Suggestions for Measuring Complexity and Differentiation
+
+Firstly, measuring complexity and differentiation of your domains is hard and is usually quite subjective. Strategy is a bet on the future, so you can never be sure exactly how complex or differentiating something will turn out to be. But there is still a lot of value in discussing and visualising your beliefs of the complexity and differentiation of each domain.
+
+The following clues can help to assess the complexity and differentiation of each domain. 
+ 
+ - How difficult is it to design a conceptual model for the domain and build (and maintain) it as software? (essential domain complexity)
+- Is the current technical solution more complex than it needs to be to provide the current functionality? (accidental technical complexity)
+- Are there complex processes, calculations, and decisions happening outside the software? (operational complexity)
+- How hard would it be for a new entrant to the market to match or exceed the capability?
+- How hard would it be for an existing competitor to match or exceed the capability?
+- How much of an advantage is currently produced by the domain (revenue, brand, engagement)?
+- How much of an advantage could be produced by domain (revenue, brand, engagement)?
+- What damage would occur to the brand if major or recurring failures happened in the domain?
+- Which cynefin domain does it fall within?
 
 ## Examples
 

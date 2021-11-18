@@ -32,7 +32,7 @@ Firstly, measuring complexity and differentiation of your domains is hard and is
 
 The following clues can help to assess the complexity and differentiation of each domain. 
  
- - How difficult is it to design a conceptual model for the domain and build (and maintain) it as software? (essential domain complexity)
+- How difficult is it to design a conceptual model for the domain and build (and maintain) it as software? (essential domain complexity)
 - Is the current technical solution more complex than it needs to be to provide the current functionality? (accidental technical complexity)
 - Are there complex processes, calculations, and decisions happening outside the software? (operational complexity)
 - How hard would it be for a new entrant to the market to match or exceed the capability?

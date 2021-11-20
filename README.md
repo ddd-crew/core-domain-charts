@@ -37,8 +37,8 @@ The following clues can help to assess the complexity and differentiation of eac
 - Are there complex processes, calculations, and decisions happening outside the software? (operational complexity)
 - How hard would it be for a new entrant to the market to match or exceed the capability?
 - How hard would it be for an existing competitor to match or exceed the capability?
-- How much of an advantage is currently produced by the domain (revenue, brand, engagement)?
-- How much of an advantage could be produced by domain (revenue, brand, engagement)?
+- How much of an advantage is currently derived from the (sub)domain (revenue, brand, engagement)?
+- How much of an advantage could potentially be derived from the (sub)domain (revenue, brand, engagement)?
 - What damage would occur to the brand if major or recurring failures happened in the domain?
 - Which cynefin domain does it fall within?
 

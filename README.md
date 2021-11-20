@@ -40,7 +40,7 @@ The following clues can help to assess the complexity and differentiation of eac
 - How much of an advantage is currently derived from the (sub)domain (revenue, brand, engagement)?
 - How much of an advantage could potentially be derived from the (sub)domain (revenue, brand, engagement)?
 - What damage would occur to the brand if major or recurring failures happened in the domain?
-- Which cynefin domain does it fall within?
+- Which [cynefin domain](https://cynefin.io/wiki/Cynefin_Domains) does it fall within?
 
 Complexity can manifest in different forms. Here are some clues for uncovering the essential domain complexity, accidental technical complexity, and operational complexity of each (sub)domain:
 

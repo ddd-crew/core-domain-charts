@@ -44,11 +44,11 @@ The following clues can help to assess the complexity and differentiation of eac
 
 Complexity can manifest in different forms. Here are some clues for uncovering the essential domain complexity, accidental technical complexity, and operational complexity of each (sub)domain:
 
-- the difficulty in discovering potential value
-- designing the rules, logic, and workflows are fundamentally hard to get right
-- simpler rules and logic but operating at large scale
-- high levels of differentiation are needed to displace existing market leaders or in saturated markets
-- specialist expertise that is difficult and expensive to acquire 
+- How difficult is discovering potential new value?
+- How difficult is designing the rules, logic, and workflows that create value?
+- What level of scale does the system need to operate at? (even if rules are simpler, scale can add lots of complexity)
+- Are veery high levels of differentiation needed to displace existing market leaders or in saturated markets?
+- Is specialist expertise/talent required (to discover and/or deliver value) that is difficult and expensive to acquire?
 
 
 ## Examples

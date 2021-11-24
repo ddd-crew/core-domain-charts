@@ -64,6 +64,8 @@ Please feel free to create a pull request with your own examples.
 
 - [Visualising Sociotechnical Architecture with DDD and Team Topologies](https://medium.com/nick-tune-tech-strategy-blog/visualising-sociotechnical-architecture-with-ddd-and-team-topologies-48c6be036c40)
 
+- An alternative and complementary tool to assess process complexity is [Bernd Rücker](https://twitter.com/berndruecker)'s [Process Automation Map](https://blog.bernd-ruecker.com/exploring-the-process-automation-map-7d9aa181a747)
+
 ## Contributors
 
 Thanks to all [existing and future contributors](https://github.com/ddd-crew/core-domain-charts/graphs/contributors) and to [Eduardo da Silva](https://twitter.com/emgsilva) who has contributed to the Core Domain Chart:

@@ -8,6 +8,10 @@ The true power of this technique is the conversations that it triggers, especial
 
 ![alt text](resources/core-domain-chart-template.jpg "Core Domain Chart")
 
+## Translations
+
+- [Brazilian Portuguese (pt-BR)](translations/pt-br/README.md)
+
 ## How to Use
 
 There are a variety of ways the Core Domain Chart can be used, but it's important not to try to and visualise all the possible information in a single diagram. Below are multiple versions showing different types of information to choose from.
